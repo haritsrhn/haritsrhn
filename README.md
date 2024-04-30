@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haritsrhn&label=Profile%20views&color=0e75b6&style=flat" alt="haritsrhn" /> </p>
 
 
-- 🔭 I’m currently working on **Infront Consulting Malaysia**
+- 🔭 I’m currently working at **Infront Consulting Malaysia**
 
 - 🌱 I’m currently learning **React.js, React Native, Django, and DRF**
 
