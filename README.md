@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **Infront Consulting Malaysia**
 
-- 🌱 I’m currently learning **React.js, React Native, Django, and DRF**
+- 🌱 I’m currently learning **Django, React.js, React Native, and TypeScript**
 
-- 📫 How to reach me **haritsraihan75@gmail.com**
+- 📫 How to reach me **haritsraihan73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
